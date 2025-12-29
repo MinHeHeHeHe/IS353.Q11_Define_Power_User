@@ -91,3 +91,5 @@ Notebook này là bước đầu tiên trong việc phân tích mạng xã hội
 **Người thực hiện**: Nhóm 16 IS353.Q11
 
 **Ngày hoàn thành**: 12/12/2025
+
+**Link code github**: https://github.com/MinHeHeHeHe/IS353.Q11_Define_Power_User   
